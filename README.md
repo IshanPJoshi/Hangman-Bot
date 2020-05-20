@@ -1,4 +1,4 @@
-# AIHangman
+# Hangman Bot
 
 This was a Hangman Bot I created from scratch for my Intro to AI class. It can guess a word you give it within 6-8 guesses on average.
 Many of the functions are created using with basic concepts learned in the class, such as constraining your domain.
