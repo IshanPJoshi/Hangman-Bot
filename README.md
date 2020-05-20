@@ -4,11 +4,17 @@ This was an Hangman Bot I created from scratch for my Intro to AI class. It can 
 Many of the functions are created using with basic concepts learned in the class, such as constraining your domain.
 The main reason for using python is the ease of string manipulation and list comprehension for constraining the word list.
 
+Here are the results:
+![](https://imgur.com/a/8sRImDL)
+
 It's fully modular, so new functions/methods could easily be added and changed.
 
 ## Usage
 
-The two hangman python files, HangmanV2/HangmanV3 are user-friendly and should provide prompts for a word. That's it.
+The two hangman python files, HangmanV2/HangmanV3 are user-friendly and should provide prompts for a word.
+
+Version 3 will require a separate input file of words as explained below.
+Here's the one I used : https://github.com/dwyl/english-wordshttps://github.com/dwyl/english-words
 
 ## V2 vs. V3
 
