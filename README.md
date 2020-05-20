@@ -5,13 +5,20 @@ Many of the functions are created using with basic concepts learned in the class
 The main reason for using python is the ease of string manipulation and list comprehension for constraining the word list.
 
 Here are the results:
-![](https://imgur.com/a/8sRImDL)
+
+![](testdata.png)
+
+This was done by sampling 1000 words from the words file and tested pass/fail given 6 guesses, as expected in a normal game of hangman.
+The extra files portion has some more details.
+
 
 It's fully modular, so new functions/methods could easily be added and changed.
 
 ## Usage
 
 The two hangman python files, HangmanV2/HangmanV3 are user-friendly and should provide prompts for a word.
+
+If you want to vary the number of tries/guesses the bot has, edit the tries_left variable within main.
 
 Version 3 will require a separate input file of words as explained below.
 Here's the one I used : https://github.com/dwyl/english-wordshttps://github.com/dwyl/english-words
@@ -23,7 +30,7 @@ This was done to see the difference between word databases. Changing the databas
 
 ## Extra files
 
-The extra files were for my experimentation where I gathered statistics and implmented multiprocessing to speed up testing
+Included in this repo are a testingstuff.ipynb where I did most of my brainstorming and a getstats.py file where I experimented with different multiprocessing features and ran several tests to come up with the given figure.
 
 ## Further Development
 
