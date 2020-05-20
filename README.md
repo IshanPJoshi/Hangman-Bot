@@ -21,7 +21,7 @@ The two hangman python files, HangmanV2/HangmanV3 are user-friendly and should p
 If you want to vary the number of tries/guesses the bot has, edit the tries_left variable within main.
 
 Version 3 will require a separate input file of words as explained below.
-Here's the one I used : https://github.com/dwyl/english-wordshttps://github.com/dwyl/english-words
+  Here's the one I used on [dwyl's github](https://github.com/dwyl/english-wordshttps://github.com/dwyl/english-words).
 
 ## V2 vs. V3
 
